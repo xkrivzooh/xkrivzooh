@@ -3,7 +3,7 @@
 <!--
 **xkrivzooh/xkrivzooh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Currently working on [Bianlifeng](https://bianlifeng.com/). Read my [blog](https://wenchao.ren) or follow [@AnotherRobot](https://weibo.com/AnotherRobot) on Weibo.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
