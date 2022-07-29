@@ -1,4 +1,3 @@
 ### Hi there 👋
 
-Currently working on [MeiTuan](http://meituan.com/). Read my [blog](https://wenchao.ren) or follow [@AnotherRobot](https://weibo.com/AnotherRobot) on Weibo.
-
+Welcome to my github homepage, I hope you can find the resources you need.
